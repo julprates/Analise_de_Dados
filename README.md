@@ -73,7 +73,11 @@ O objetivo foi praticar conceitos de **Banco de Dados**, **Análise de Dados** e
 
 │   └── produto_mais_vendido.png
 
+│   └── Dashboard.png
+
 │
+
+└── Dashboard Análise de Vendas.pbix
 
 └── README.md
 
