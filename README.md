@@ -202,11 +202,11 @@ Este dashboard foi desenvolvido no Power BI com o objetivo de apresntar os princ
 - O mix de produtos demonstra forte concentração nas vendas de periféricos, especialmente Mouse e Teclado.
 
 **Conclusão**
+
 Este dashboard demonstra como uma análise de dados bem estruturada pode transformar informações em insights estratégicos. Ao consolidar indicadores de desempenho e tendências de vendas em uma visualização clara e objetiva, ele evidencia o potencial da análise de dados para apoiar decisões mais rápidas, assertivas e orientadas por resultados.
 
 ---
 
- 
 ## 👨‍💻 Autor
 
 Projeto desenvolvido por Juliana Lucia Prates dos Santos para fins de estudo e prática em Análise de Dados, envolvendo integração entre SQL, Excel e Python para extração, tratamento e visualização de informações.
