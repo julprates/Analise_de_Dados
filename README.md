@@ -114,7 +114,6 @@ Através dos dados coletados foi gerado um gráfico que apresenta o faturamento 
 **Principais insights:**
 
  
-
 - O faturamento apresentou uma tendência geral de crescimento ao longo do ano.
 
 - O menor faturamento foi registrado em fevereiro, com aproximadamente R$ 72 mil.
@@ -133,11 +132,9 @@ Através dos dados coletados foi gerado um gráfico que apresenta o faturamento 
 
 **Conclusão:**
 
- 
 
 Os resultados indicam que a empresa apresentou crescimento sustentável durante o ano, encerrando 2025 com seu maior faturamento mensal. O forte desempenho no último trimestre demonstra uma expansão das vendas e reforça a importância desse período para os resultados do negócio.
 
- 
 
 ### 2. Produto Mais Vendido
 
@@ -149,9 +146,7 @@ Foi criado um segundo gráfico para comparar o volume de vendas dos três produt
 <img width="1110" height="723" alt="image" src="https://github.com/user-attachments/assets/9ea5ea1c-c6d9-4c58-b014-570a935832aa" />
 
 
-
 **Principais insights:**
-
  
 
 - O Mouse foi o produto mais vendido, totalizando 1.785 unidades comercializadas.
@@ -165,12 +160,9 @@ Foi criado um segundo gráfico para comparar o volume de vendas dos três produt
 - A diferença entre Mouse e Notebook foi expressiva, sugerindo comportamentos de consumo distintos entre produtos de menor e maior valor agregado.
 
 - O desempenho do Teclado demonstra uma demanda consistente, embora inferior à observada para o Mouse.
-
  
 
 **Conclusão:**
-
- 
 
 A análise revela que os periféricos foram os itens com maior aceitação entre os clientes, com destaque para o Mouse, que liderou as vendas durante todo o período analisado. Já o Notebook apresentou menor volume de comercialização, possivelmente por se tratar de um produto de maior valor unitário. Essas informações podem auxiliar na definição de estratégias de estoque, marketing e planejamento comercial para períodos futuros.
 
@@ -182,108 +174,35 @@ A análise revela que os periféricos foram os itens com maior aceitação entre
 
 ## 📊 Dashboard em Power BI
 
- 
+Este dashboard foi desenvolvido no Power BI com o objetivo de apresntar os principais indicadores de vendas deste projeto, proporcionando uma visão rápida e estratégica do desempenho da empresa(fictícia) no ano de 2025.
 
-As análises permitiram visualizar de forma clara:
+ <img width="654" height="366" alt="image" src="https://github.com/user-attachments/assets/16236ef9-e4de-4257-93e6-8433444d91cb" />
 
- 
+**Principais Indicadores**
+- Faturamento Anual: R$ 1,31 milhão
+- Produtos Vendidos: 3 mil unidades
+- Produto Mais Vendido: Mouse
 
-* O faturamento total da empresa em 2025.
+**Análises Disponíveis**
 
-* A participação de cada produto no total de vendas, destacando o produto mais vendido durante o período analisado.
+- Evolução do faturamento mensal através de gráfico de linha, permitindo identificar tendências de crescimento ao longo do ano;
+- Comparativo da quantidade vendida por produto mês a mês;
+- Participação percentual de cada produto no faturamento total;
+- Ranking de produtos por quantidade vendida.
 
- 
+**Principais Insights**
 
----
+- O faturamento apresentou crescimento consistente durante o ano, encerrando dezembro como o mês de melhor desempenho;
+- O Mouse foi o produto com maior volume de vendas, representando aproximadamente 59% das unidades comercializadas;
+- O Notebook apresentou menor participação em quantidade vendida, porém possui potencial de maior ticket médio;
+- O mix de produtos demonstra forte concentração nas vendas de periféricos, especialmente Mouse e Teclado.
 
- 
-
-## 🚀 Como Executar o Projeto
-
- 
-
-1. Clone este repositório:
-
- 
-
-```bash
-
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-```
-
- 
-
-2. Instale as dependências:
-
- 
-
-```bash
-
-pip install pandas matplotlib openpyxl
-
-```
-
- 
-
-3. Execute o script Python:
-
- 
-
-```bash
-
-python analise_vendas.py
-
-```
-
- 
+**Conclusão**
+Este dashboard demonstra como uma análise de dados bem estruturada pode transformar informações em insights estratégicos. Ao consolidar indicadores de desempenho e tendências de vendas em uma visualização clara e objetiva, ele evidencia o potencial da análise de dados para apoiar decisões mais rápidas, assertivas e orientadas por resultados.
 
 ---
 
  
-
-## 📷 Visualizações
-
- 
-
-### Faturamento Anual
-
- 
-
-> Inserir aqui a imagem do gráfico de faturamento.
-
- 
-
-```markdown
-
-![Faturamento Anual](grafico_faturamento.png)
-
-```
-
- 
-
-### Produto Mais Vendido
-
- 
-
-> Inserir aqui a imagem do gráfico de produtos.
-
- 
-
-```markdown
-
-![Produto Mais Vendido](grafico_produtos.png)
-
-```
-
- 
-
----
-
- 
-
 ## 👨‍💻 Autor
 
- 
-
-Projeto desenvolvido para fins de estudo e prática em Análise de Dados, envolvendo integração entre SQL, Excel e Python para extração, tratamento e visualização de informações.
+Projeto desenvolvido por Juliana Lucia Prates dos Santos para fins de estudo e prática em Análise de Dados, envolvendo integração entre SQL, Excel e Python para extração, tratamento e visualização de informações.
