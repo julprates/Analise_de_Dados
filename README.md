@@ -109,7 +109,7 @@ As informações armazenadas incluem:
 
 ### 1. Faturamento Anual
 
-Através dos dados coletados foi gerado um gráfico que apresenta o faturamento total da empresa durante o período analisado.
+Através dos dados coletados e utilizando as bibliotecas Pandas e Matplotlib em Python, foi gerado um gráfico que apresenta o faturamento total da empresa durante o período analisado.
 
 
 <img width="732" height="361" alt="image" src="https://github.com/user-attachments/assets/28f53e2a-80ba-45e7-81a4-217ae0b28104" />
@@ -144,7 +144,7 @@ Os resultados indicam que a empresa apresentou crescimento sustentável durante 
 
  
 
-Foi criado um segundo gráfico para comparar o volume de vendas dos três produtos.
+Foi criado um segundo gráfico, também utilizando as bibliotecas em Python, para comparar o volume de vendas dos três produtos.
 
  
 <img width="1110" height="723" alt="image" src="https://github.com/user-attachments/assets/9ea5ea1c-c6d9-4c58-b014-570a935832aa" />
